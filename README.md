@@ -7,6 +7,7 @@
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http://www.donatogiovannelli.com)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-R-1f425f.svg)](https://www.r-project.org)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/giovannellilab/GLab_ggplot2_theme/graphs/commit-activity)
+[![DOI](https://zenodo.org/badge/576491778.svg)](https://zenodo.org/badge/latestdoi/576491778)
 
 Here the short code we use to draw all our figure in the Giovannelli Lab. It was designed following design principles highlited in the [IPCC Visual Style Guide](https://www.ipcc.ch/site/assets/uploads/2019/04/IPCC-visual-style-guide.pdf) and the suggestions found in the great Nature Methods series [Points of View](https://www.nature.com/search?author=Bang%20Wong&order=relevance&journal=nmeth). You can find more information about our laboratory at the lab website [www.donatogiovannelli.com](www.donatogiovannelli.com).
 
@@ -169,6 +170,6 @@ Below an example of a scatterplot of same geochemical data with the base ggplot2
 ## Credits
 If you decide to use this theme, fantastic! If you wanna let us know that you are using it, drop us a line on social media or via email. If you wanna cite this theme, please use:
 
-*Giovannelli, D and the Giovanelli Lab members. 2020. A customized ggplot2 theme for publication ready scientific figures. doi: *
+*Giovannelli, D and the Giovanelli Lab members. 2020. A customized ggplot2 theme for publication ready scientific figures. doi: 10.5281/zenodo.7420645*
 
 Thank you and have fun with your data!
