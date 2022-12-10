@@ -9,7 +9,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/giovannellilab/GLab_ggplot2_theme/graphs/commit-activity)
 [![DOI](https://zenodo.org/badge/576491778.svg)](https://zenodo.org/badge/latestdoi/576491778)
 
-Here the short code we use to draw all our figure in the Giovannelli Lab. It was designed following design principles highlited in the [IPCC Visual Style Guide](https://www.ipcc.ch/site/assets/uploads/2019/04/IPCC-visual-style-guide.pdf) and the suggestions found in the great Nature Methods series [Points of View](https://www.nature.com/search?author=Bang%20Wong&order=relevance&journal=nmeth). You can find more information about our laboratory at the lab website [www.donatogiovannelli.com](www.donatogiovannelli.com).
+Here the short code we use to draw all our figure in the Giovannelli Lab. It was designed following design principles highlited in the [IPCC Visual Style Guide](https://www.ipcc.ch/site/assets/uploads/2019/04/IPCC-visual-style-guide.pdf) and the suggestions found in the great Nature Methods series [Points of View](http://go.nature.com/3nDvUlp). You can find more information about our laboratory at the lab website [www.donatogiovannelli.com](www.donatogiovannelli.com).
 
 ## Design principles
 The theme follows the high data-to-ink ratio principles, and plays with salience and the viridis palettes (deafult of the theme) to make sure your data are highlighted in the figure. All unnecessary elements are removed. 
